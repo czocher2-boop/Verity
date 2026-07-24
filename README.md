@@ -10,6 +10,8 @@ I'm a Texas appellate attorney building and testing AI workflows for high-stakes
 
 **CLE curriculum (in development).** Converting these findings into accredited continuing legal education, so the work scales from one practice to the profession.
 
+**The Steady Companion.** Guardrails for AI in mental-health conversations — a standing prompt you write on a calm day, so the model meets you instead of managing you and keeps your care team in the room instead of replacing them. Free to copy and adapt: [steady-companion.md](steady-companion.md).
+
 ## Approach
 
 Verification before launch. I come from a family of systems-builders (Aegis, mathematical modeling); this is the language version of that discipline. The question isn't whether lawyers will use AI — it's whether they'll use it with guardrails or without.
