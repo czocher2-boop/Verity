@@ -1,4 +1,4 @@
-# The Lamp
+# The Genie Lamp
 
 *A starter kit for persistent memory, for anyone who has none of it. Copy the files below, fill in your own answers, and you have the whole mechanism on day one.*
 
